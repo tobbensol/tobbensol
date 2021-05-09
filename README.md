@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tobbensol
+- 🌱 I’m currently learning Java and Node.js
+- 💞️ I’m currently working on interesting projects that i am looking to learn from
+- discord: tobbensol#5380
+- twitter: @Tobbensol
