@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tobbensol
 - 🌱 I’m currently learning Python, Java, Golang and Vue.js
-- 💞️ I’m currently working on interesting projects that i am looking to learn from
-- discord: tobbensol#5380
+- 💞️ I’m currently developing my skills through various different projects
+- Discord: tobbensol#5380
