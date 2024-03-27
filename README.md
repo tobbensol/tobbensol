@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tobbensol
-- 🌱 I’m currently learning Python, Java and haskell!
+- 🌱 I’m currently learning Python, Java, GO, HTMX and Tailwind CSS!
 - 💞️ I’m currently developing my skills through various different projects
 - Discord: tobbensol#5380
