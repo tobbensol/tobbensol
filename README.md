@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tobbensol</h1>
-<h3 align="center">A passionate frontend developer from Bergen in Norway</h3>
+## Hi 👋, I'm Tobbensol</h1>
+### A passionate Machine learning student and software developer from Bergen in Norway</h3>
 
 - 🔭 I’m currently working on
   - [A rating website](https://github.com/tobbensol/Elga3-Website)
